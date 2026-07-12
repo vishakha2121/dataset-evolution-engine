@@ -199,4 +199,4 @@ cp .env.example .env
 # Edit .env with your configurations
 
 # Run development server
-npm run dev
+npm run devs
